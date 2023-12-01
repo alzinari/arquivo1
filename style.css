@@ -4,4 +4,15 @@
     padding: 24px 0;
     margin: 0 16px;
     font-size: 16px;
+    text-align: left;
+}
+
+
+.titulo{
+    background-color: #424E61;
+    color: white;
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 16px;
+    text-align: left;
 }
